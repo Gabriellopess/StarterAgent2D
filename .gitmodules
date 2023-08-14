@@ -1,0 +1,3 @@
+[submodule "StarterLibRCSC"]
+	path = StarterLibRCSC
+	url = git@github.com:naderzare/StarterLibRCSC.git
